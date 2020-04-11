@@ -1,19 +1,15 @@
 ﻿
- -设计模式 
+-Java 是什么
 
 
+-Java 基础:
 
-
--[第一章节](desgin-pattern/Java面试必备：手写单例模式.md)
+	-[Java基础语法](desgin-pattern/Java基础语法.md)
 	
-
--[工厂模式](desgin-pattern/工厂模式超详解（代码示例）.md)
+	-[面向对象](desgin-pattern/面向对象.md)
+	
+	
 	 
 
 
--[原型模式](desgin-pattern/设计模式之原型模式.md)
-	 
-
-
--[代理模式](desgin-pattern/设计模式之代理模式.md)
 

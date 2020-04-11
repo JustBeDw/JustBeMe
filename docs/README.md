@@ -6,5 +6,5 @@
 >[个人博客](http://jyzg.tj.cn/)
 
 
->阅读地址：[https://github.com/JustBeDw](https://github.com/JustBeDw)
+>阅读地址：[https://justbedw.github.io/JustBeMe/.](https://justbedw.github.io/JustBeMe/.)
 
