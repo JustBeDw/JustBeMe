@@ -6,5 +6,8 @@
 >[个人博客](http://jyzg.tj.cn/)
 
 
->阅读地址：[https://justbedw.github.io/JustBeMe/.](https://justbedw.github.io/JustBeMe/.)
-
+        学习Java永远是正确的选择，既然选择了一门编程语言，那么，请你不要放弃。不仅仅
+    是Java，学习任何东西都不要放弃，走出舒适区，享受这个痛苦的学习过程，很美好的。
+    ;')
+    
+那么，就开始坚持学习吧！🤣
