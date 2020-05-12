@@ -1,8 +1,8 @@
-# [Java](desgin-pattern/Java)
+# Java
 
 - #### [Java 是什么](desgin-pattern/Java/Java是什么.md)
   
-- #### [Java 基础](desgin-pattern/Java/Java基础)
+- #### Java 基础
 
   + [Java基础语法](desgin-pattern/Java/Java基础/Java基础语法.md)
 
@@ -39,26 +39,28 @@
 
 
 ​	
-- #### [JVM](desgin-pattern/Java/JVM)
+- #### JVM
 
-- #### [并发](desgin-pattern/Java/并发)
-
-
-
-# [Spring](desgin-pattern/Spring)
+- #### 并发
 
 
 
-
-
-# [MySQL](desgin-pattern/MySQL)
-
-
-
-# [网络](desgin-pattern/网络)
+# Spring
 
 
 
-# [算法](desgin-pattern/算法)
 
-# [中间件](desgin-pattern/中间件)
+
+# MySQL
+
+
+
+# 网络
+
+
+
+# 算法
+
+
+
+# 中间件
