@@ -41,36 +41,36 @@ static final int E = 10;
 ## 流程控制
 
 ```java
-if(表达式){
-	statement;
-}
-esle{
-	statement;
-}
+    if(表达式){
+        statement;
+    }
+    esle{
+        statement;
+    }
 
-switch(表达式){
-	case 1:
-		break;
-    default:
-        break;
-}
+    switch(表达式){
+        case 1:
+            break;
+        default:
+            break;
+    }
 
-while(表达式){
-	循环体;
-}
+    while(表达式){
+        循环体;
+    }
 
-do{
-	至少执行一次循环体;
-}while(表达式);
+    do{
+        至少执行一次循环体;
+    }while(表达式);
 
-for(int i;i<N;i++){
-	循环体;
-}
+    for(int i;i<N;i++){
+        循环体;
+    }
 
-for(int i : array){
-    //foreach语法
-    System.out.print(i)
-}
+    for(int i : array){
+        //foreach语法
+        System.out.print(i)
+    }
 ```
 
 ## 访问权限控制
