@@ -1,8 +1,8 @@
 # Java
 
-- #### [Java 是什么](desgin-pattern/Java/Java是什么.md)
+- ##### [Java 是什么](desgin-pattern/Java/Java是什么.md)
   
-- #### Java 基础
+- ##### Java 基础
 
   + [Java基础语法](desgin-pattern/Java/Java基础/Java基础语法.md)
 
@@ -35,13 +35,14 @@
   + [源码阅读](desgin-pattern/Java/Java基础/源码阅读.md)
 	
 
+- ##### JVM
 
+  * [运行期的数据](desgin-pattern\Java\JVM\runtimeData.md)  
+  * [对象的创建](desgin-pattern\Java\JVM\createObject.md)  
+  * [垃圾回收算法](desgin-pattern\Java\JVM\garbageCollectA.md)  
+  * [垃圾回收器](desgin-pattern\Java\JVM\garbageCollect.md)
 
-
-​	
-- #### JVM
-
-- #### 并发
+- ##### 并发
 
 
 
