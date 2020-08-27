@@ -59,7 +59,7 @@
 
 # 网络
 
-- [TCP连接与断开](docs/desgin-pattern/网络/TCP 连接断开.md)
+- [TCP连接与断开](desgin-pattern/网络/TCP连接断开.md)
 
 
 
@@ -73,10 +73,11 @@
 
 - ##### Redis 
 
-  * [Redis 入门](docs/desgin-pattern/中间件/Redis/Redis 入门.md)
+  * [Redis入门](docs/desgin-pattern/中间件/Redis/Redis入门.md)
   * [Redis配置文件](desgin-pattern/中间件/Redis/Redis配置文件.md)
   * [Redis持久化](desgin-pattern/中间件/Redis/Redis持久化.md)
-  * [Redis 雪崩、穿透、击穿](desgin-pattern/中间件/Redis/Redis 雪崩、穿透、击穿.md)
+  * [Redis雪崩、穿透、击穿](desgin-pattern/中间件/Redis/Redis雪崩、穿透、击穿.md)
   * [Redis集群](desgin-pattern/中间件/Redis/Redis集群.md)
   * [秒杀系统](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw) 
-  * [Redis 面试问题（1）](desgin-pattern/中间件/Redis/Redis 面试问题（1）.md)
+  * [Redis面试问题（1）](desgin-pattern/中间件/Redis/Redis面试问题（1）.md)
+
