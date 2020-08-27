@@ -10,5 +10,5 @@
 
 >阅读地址：[点击阅读](https://justbedw.github.io/JustBeMe/.)
 
-#### 															***就是 TM做自己！***
+#### 															***做自己！***
 
