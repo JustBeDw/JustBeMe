@@ -53,13 +53,15 @@
 
 # MySQL
 
-- [Join](desgin-pattern\MySQL\Join.md)
-- [mysql使用B+而不是BTree](desgin-pattern\MySQL\mysql使用B+而不是BTree.md)
-- [MySQL插入百万数据](desgin-pattern\MySQL\MySQL插入百万数据.md)
+- [Join](desgin-pattern/MySQL/Join.md)
+- [mysql使用B+而不是BTree](desgin-pattern/MySQL/mysql使用B+而不是BTree.md)
+- [MySQL插入百万数据](desgin-pattern/MySQL/MySQL插入百万数据.md)
 
 # 网络
 
-- [TCP 连接断开](desgin-pattern\网络\TCP 连接断开.md)
+- [TCP连接与断开](desgin-pattern/网络/TCP连接断开.md)
+
+
 
 # 算法
 
@@ -71,10 +73,10 @@
 
 - ##### Redis 
 
-  * [Redis 入门](desgin-pattern\中间件\Redis\Redis 入门.md)
-  * [Redis配置文件](desgin-pattern\中间件\Redis\Redis配置文件.md)
-  * [Redis持久化](desgin-pattern\中间件\Redis\Redis持久化.md)
-  * [Redis 雪崩、穿透、击穿](desgin-pattern\中间件\Redis\Redis 雪崩、穿透、击穿.md)
-  * [Redis集群](desgin-pattern\中间件\Redis\Redis集群.md)
-  * [秒杀系统](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw)
-  * [Redis 面试问题（1）](desgin-pattern\中间件\Redis\Redis 面试问题（1）.md)
+  * [Redis 入门](desgin-pattern/中间件\Redis/Redis 入门.md)
+  * [Redis配置文件](desgin-pattern/中间件/Redis/Redis配置文件.md)
+  * [Redis持久化](desgin-pattern/中间件/Redis/Redis持久化.md)
+  * [Redis 雪崩、穿透、击穿](desgin-pattern/中间件/Redis\Redis 雪崩、穿透、击穿.md)
+  * [Redis集群](desgin-pattern/中间件/Redis/Redis集群.md)
+  * [秒杀系统](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw) 
+  * [Redis 面试问题（1）](desgin-pattern/中间件/Redis/Redis 面试问题（1）.md)
