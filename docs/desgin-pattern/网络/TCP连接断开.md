@@ -6,7 +6,7 @@
 
 双方都可以主动断开连接，断开连接后主机中的「资源」将被释放。
 
-![客户端主动关闭连接 —— TCP 四次挥手](https://mmbiz.qpic.cn/mmbiz_png/J0g14CUwaZeo9xBVAyPJ8iaWCC6sYS843KaMMu2mHfFLZNgiaREDZ5JicRYrlaiciayQjh9HDsacxIbMT0emGUpAX5w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)客户端主动关闭连接 —— TCP 四次挥手
+![image-20200827164952207](TCP连接断开.assets/image-20200827164952207.png)客户端主动关闭连接 —— TCP 四次挥手
 
 - 客户端打算关闭连接，此时会发送一个 TCP 首部 `FIN` 标志位被置为 `1` 的报文，也即 `FIN` 报文，之后客户端进入 `FIN_WAIT_1` 状态。
 - 服务端收到该报文后，就向客户端发送 `ACK` 应答报文，接着服务端进入 `CLOSED_WAIT` 状态。
