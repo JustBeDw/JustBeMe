@@ -73,7 +73,7 @@
 
 - ##### Redis 
 
-  * [Redis入门](docs/desgin-pattern/中间件/Redis/Redis入门.md)
+  * [Redis入门](desgin-pattern/中间件/Redis/Redis入门.md)
   * [Redis配置文件](desgin-pattern/中间件/Redis/Redis配置文件.md)
   * [Redis持久化](desgin-pattern/中间件/Redis/Redis持久化.md)
   * [Redis雪崩、穿透、击穿](desgin-pattern/中间件/Redis/Redis雪崩、穿透、击穿.md)
