@@ -55,7 +55,7 @@
 
 - [查询语句的执行过程](desgin-pattern/MySQL/丁奇45讲笔记总结/01-查询语句的执行过程.md)
 
-- [redo log与bin log日志](desgin-pattern/MySQL/丁奇45讲笔记总结/02-redo log与bin log日志.md)
+- [redo log与binlog日志](desgin-pattern/MySQL/丁奇45讲笔记总结/02-redolog与binlog日志.md)
 
 - [事务隔离](desgin-pattern/MySQL/丁奇45讲笔记总结/03-事务隔离.md)
 
