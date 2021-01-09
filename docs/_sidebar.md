@@ -53,9 +53,21 @@
 
 # MySQL
 
+- [查询语句的执行过程](desgin-pattern/MySQL/丁奇45讲笔记总结/01-查询语句的执行过程.md)
+
+- [redo log与bin log日志](desgin-pattern/MySQL/丁奇45讲笔记总结/02-redo log与bin log日志.md)
+
+- [事务隔离](desgin-pattern/MySQL/丁奇45讲笔记总结/03-事务隔离.md)
+
+- [索引](desgin-pattern/MySQL/丁奇45讲笔记总结/04-索引.md)
+
 - [Join](desgin-pattern/MySQL/Join.md)
+
 - [mysql使用B+而不是BTree](desgin-pattern/MySQL/mysql使用B+而不是BTree.md)
+
 - [MySQL插入百万数据](desgin-pattern/MySQL/MySQL插入百万数据.md)
+
+  
 
 # 网络
 
